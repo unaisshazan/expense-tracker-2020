@@ -73,7 +73,7 @@ function Child() {
 
             </ul>
 
-            <h3>Add New Transaction</h3>
+            <h3>Add New Transaction:</h3>
             <hr />
 
             <form className="transaction-form" onSubmit={handleAddition}>
